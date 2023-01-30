@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 210, 127);
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+}
+h1{
+    font-size: 25px;
+    visibility: hidden;
+}
+
+/* form{
+    max-width: 75%;
+} */
+.input{
+    font-size: 20px;
+    padding: 7px 100px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 2px 2px gray;
+    margin: 3px auto;
+}
+ul{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
+li{
+    margin: 2px auto;
+    border-bottom: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px gray;
+    background-color: white;
+    max-width: 30%;
+}
